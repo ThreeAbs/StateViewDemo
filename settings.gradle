@@ -1,0 +1,3 @@
+include ':StateView'
+include ':app'
+rootProject.name = "StateViewDemo"
